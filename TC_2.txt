@@ -1,0 +1,4 @@
+This second test case for landing page
+Step 1; Check if the landing page screen is displayed without error
+step 2 : Menu is displayed
+Step 3 : About site information is displayed

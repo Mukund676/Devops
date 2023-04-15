@@ -1,0 +1,9 @@
+priya@Mukund676-17 MINGW64 /d/priya/GitDemo2023 (main)
+$ git config --global user.name "PriyaV"
+
+priya@Mukund676-17 MINGW64 /d/priya/GitDemo2023 (main)
+$ git config --global user.email "priya29.venkatesh@gmail,com"
+
+priya@Mukund676-17 MINGW64 /d/priya/GitDemo2023 (main)
+$ git config --get-all user.name
+PriyaV
