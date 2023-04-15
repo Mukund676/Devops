@@ -1,0 +1,3 @@
+Test case to test login functionality
+step 1 :enter username
+step 2 : enter passwrd
