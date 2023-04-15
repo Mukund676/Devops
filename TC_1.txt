@@ -1,3 +1,17 @@
 Test case to test login functionality
 step 1 :enter username
 step 2 : enter passwrd
+Step 3 : Click Login button
+Step 4 : Login successful
+
+Step 6 : Invalid user name
+Step 7 : enter password
+Step 8 : Click login button
+Step 9 : check of error message displayed
+Step 10 : Click on ok
+
+
+Step 11 : Enter valid user name
+Step 12 : Enter invalid password
+Step 13 : Invalid password
+Step 14 : Click on OK
